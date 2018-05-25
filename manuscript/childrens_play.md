@@ -1,6 +1,3 @@
-
-
-
 MOM: (From offstage. Almost sing-songy, as mothers can be) Albert! Lisa! Don’t forget to take you vitamins! 
 
 KIDS: Yes mom!
@@ -312,11 +309,6 @@ BOWDIE: Not so quick, little one. Just because I don’t know does not mean that
 PUCK: We know what the gargoyles’ plan is all about—
 WIGGY: Because big dumb Pete opened his big dumb mouth!
 ALBERT: Wait a minute! About and mouth don’t rhyme. 
-BOWDIE: Well, that wasn’t a normal rhyme; that was assonance.
-ALBERT: A what?
-BOWDIE: Assonance. It is like an internal rhyme. Ask you teacher about it when you are back in your world. 
-LISA: Oh, I get it. (emphasizing the ou sound) abooouuut and mooouuuth.
-BOWDIE: Yes, internal rhymes are very beautiful and useful. 
 ALBERT: So what are the gargoyles going to do?
 PUCK: The pantry to the forbidden world is the key to their plan—
 WIGGY: They want to make their slaves every woman and man!
@@ -363,7 +355,6 @@ BOWDIE: Yes, as long as this necklace stays out of the wrong hands, everything w
 LISA: So what do we do then?
 BOWDIE: We’ll give it to him. 
 ALBERT: What?! Are you crazy?
-BOWDIE: Not yet.  
 LISA: Why would we give him the necklace? Did you already forget that the necklace holds the magic spell or something?
 BOWDIE: No, no. You see; we can give him the necklace in return for your mother. He won’t know how to use the necklace anyway. 
 ALBERT: What do you mean?
@@ -475,7 +466,7 @@ BOWDIE: What?
 LISA: We told them they could go through the magic pantry.
 ALBERT: Yeah, it’s our fault. (As the “Adults” begin arguing, KIDS, SPRITES AND GARGLES start getting along)
 BOWDIE: Well, how about I punish my Sprites and you punish your children and you punish your gargles. 
-MOM: Don’t tell me when to punish my children, they did nothing wrong!
+MOM: Don’t tell me to punish my children, they did nothing wrong!
 RUB: And my gargles are innocent as well.
 MOM: There is nothing innocent about your gargles.
 RUB: What about your children, somebody needs to teach them how to pick up after themselves. They made a huge mess in my castle! And your little sprites are always dancing and singing and a Gargoyle can’t get any sleep around here!
@@ -506,8 +497,8 @@ BOWDIE: I didn’t do anything.
 MOM: So, what do we do now?
 BOWDIE: Maybe there is hope for peace and acceptance between or worlds yet. 
 MOM: I suppose that they can all have sleepovers and parties. 
-BOWDIEL: And they can go for a ride on my dragon sometime. And maybe they can even go swimming in Rubshubshub’s mote sometime. Don’t you think so, Rub— (They look to RUB, who has been crying.) My dear Gargoyle, what is the matter?
-RUB: All I ever wanted was to start a war with the humans like my great, great, great, great, great, great, great, great… Grand-Gargoyle did. 
+BOWDIEL: And they can go for a ride on my dragon. And maybe they can even go swimming in Rubshubshub’s mote sometime. Don’t you think so, Rub— (They look to RUB, who has been crying.) My dear Gargoyle, what is the matter?
+RUB: All I ever wanted was to start a war with the humans like my great, great,  Grand-Gargoyle did. 
 MOM: But why would you want to do that? Look, we can all get along just fine.
 RUB: Because humans don’t like us Gargoyles. 
 MOM: Why do you think that?
